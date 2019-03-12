@@ -4,4 +4,4 @@ The MediaDevices.getUserMedia() method prompts the user for permission to use a 
 
 It returns a Promise that resolves to a MediaStream object. If the user denies permission, or matching media is not available, then the promise is rejected with NotAllowedError or NotFoundError respectively.
 
-Here I have worked with only Webcam audio and vedio that will take permission on the browser and output video or deined upon the user permission.
+Here I have worked with only Webcam audio and vedio that will take permission on the browser and output video or denied the service upon the user permission.
